@@ -1,6 +1,6 @@
 ### Oi, eu sou a Luciana Ferraz Do Amaral Martins 👋
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LucianaFerrazDoAmaralMartins&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucianaFerrazDoAmaralMartins&layout=top-langs)](https://github.com/LucianaFerrazDoAmaralMartins/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucianaFerrazDoAmaralMartins)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **LucianaFerrazDoAmaralMartins/LucianaFerrazDoAmaralMartins** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
